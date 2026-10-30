@@ -10,7 +10,7 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.network.NetworkRegistry;
 import net.minecraftforge.network.PacketDistributor;
-import net.minecraftforge.network.SimpleChannel;
+import net.minecraftforge.network.simple.SimpleChannel;
 
 import java.nio.file.Files;
 import java.nio.file.Path;
