@@ -1,0 +1,9 @@
+{
+  "minecraft:overworld": "overworld.png",
+  "minecraft:the_nether": "nether.png",
+  "minecraft:the_end": "end.png",
+  "secondworld:overworld": "freelands.png",
+  "secondworld:the_nether": "freelands_nether.png",
+  "worldbattles:minage": "minage.png",
+  "worldbattles:minage_nether": "minage_nether.png"
+}
